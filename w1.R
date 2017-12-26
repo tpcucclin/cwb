@@ -24,3 +24,11 @@ plot(data201009$測站氣壓,type="o", pch=16, col="black",las=1,xlab="日期",
      ylab="大氣壓",main="2010/09", axes=TRUE)
 plot(data201010$測站氣壓,type="o", pch=16, col="black",las=1,xlab="日期",
      ylab="大氣壓",main="2010/10", axes=TRUE)
+mode(x)
+mode(data201010)
+a=1:10
+mode(a)
+b="hello"
+mode(b)
+j=c("Tokyo","Osaka","Kobe","Momo")
+mode(j)
